@@ -13,4 +13,10 @@ rails g engineblock:install
 
 This will add migrations, initializers, etc to your hosting app
 
+There are some basic instructions on how to get started on the wiki
+https://github.com/jacklin10/engineblock/wiki
+
+I'll add more detail soon.
+
+
 This project rocks and uses MIT-LICENSE.
