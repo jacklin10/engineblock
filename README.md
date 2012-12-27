@@ -1,4 +1,4 @@
-# Engineblock
+## Engineblock
 
 Engineblock is a template for creating engines in rails 3.0.xx.
 In more current versions of rails this process has been made much easier, but
@@ -10,7 +10,7 @@ to get you started.
 Engineblock is configured with a built in test app, and set to use rspec so you can
 develop your engine without including it into your parent app if you want.
 
-# Installation
+### Installation
 
 To install just clone this repo on your machine.
 
@@ -33,5 +33,5 @@ This will add migrations, initializers, etc to the parent app.
 There are some basic instructions on how to get started on the wiki
 https://github.com/jacklin10/engineblock/wiki
 
-# License
+### License
 This project rocks and uses MIT-LICENSE.
